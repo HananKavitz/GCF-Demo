@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/HananKavitz/GCF-Demo#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "firebase-functions": "^2.1.0"
   },
   "devDependencies": {}
 }

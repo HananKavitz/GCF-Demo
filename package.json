@@ -1,0 +1,24 @@
+{
+  "name": "gcf-demo",
+  "version": "1.0.0",
+  "description": "just a demo for google cloud functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HananKavitz/GCF-Demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HananKavitz/GCF-Demo/issues"
+  },
+  "homepage": "https://github.com/HananKavitz/GCF-Demo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}
